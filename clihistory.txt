@@ -1,0 +1,59 @@
+$ cd ~/Desktop/
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop
+$ ls
+desktop.ini
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop
+$ git clone https://github.com/lma812/CISC3115_Lawrence.git
+Cloning into 'CISC3115_Lawrence'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop
+$ ls
+CISC3115_Lawrence/  desktop.ini
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop
+$ cd /CISC311^C
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop
+$ cd CISC3115_Lawrence/
+
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence (main)
+$ mkdir assignment1
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence (main)
+$ ls
+README.md  assignment1/
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence (main)
+$ mkdir javacode
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence (main)
+$ ls
+README.md  assignment1/  javacode/
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence (main)
+$ pwd
+/c/Users/lawre/Desktop/CISC3115_Lawrence
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence (main)
+$ cd C:/Users/lawre/Desktop/CISC3115_Lawrence/javacode
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence/javacode (main)
+$ cd ..
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence (main)
+$ cd javacode/
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence/javacode (main)
+$ cd ..
+
+lawre@DESKTOP-GQ40TLU MINGW64 ~/Desktop/CISC3115_Lawrence (main)
+$ ls
+README.md  assignment1/  javacode/
+
